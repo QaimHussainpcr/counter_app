@@ -1,0 +1,41 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+  background: url(./image/bac.jpg);
+  background-size: cover;
+}
+.container{
+  width: 100%;
+  height: 100%;
+}
+.count{
+  width: 600px;
+  height: 300px;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 35%;
+  border-radius: 10%;
+  backdrop-filter: blur(30px);
+  background-color: rgba(255, 255, 255, 0.3);
+  outline: none;
+}
+.heading{
+  font-size: 50px;
+  color: yellow;
+}
+.main{
+  margin-top: 80px;
+  font-size: 30px;
+  color: rgb(128, 55, 0);
+}
+button{
+  padding: 10px;
+  margin: 70px 15px 5px 15px;
+  border-radius: 50px;
+  border: none;
+  background-color: rgb(8, 118, 228);
+  color: white;
+}
