@@ -27,13 +27,18 @@ body{
   color: yellow;
 }
 .main{
-  margin-top: 80px;
+  margin-top: 30px;
   font-size: 30px;
   color: rgb(128, 55, 0);
 }
+p{
+  margin-top: 10px;
+  font-size: 20px;
+  color: cyan;
+}
 button{
   padding: 10px;
-  margin: 70px 15px 5px 15px;
+  margin: 40px 15px 5px 15px;
   border-radius: 50px;
   border: none;
   background-color: rgb(8, 118, 228);

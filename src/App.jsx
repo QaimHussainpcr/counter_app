@@ -21,6 +21,8 @@ function App() {
         <div className="count">
           <h1 className="heading">Counter App</h1>
           <h2 className="main">Counter : {counter}</h2>
+          <p>Max Value : 20</p>
+          <p>Min Value : 0</p>
           <button onClick={added}>Add Value</button>
           <button onClick={remove}>Remove Value</button>
         </div>      
